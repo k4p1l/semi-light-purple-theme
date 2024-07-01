@@ -1,0 +1,43 @@
+{
+  "name": "semi-light-purple-theme",
+  "displayName": "Semi Light Purple Theme",
+  "description": "A beatiful aesthetic theme that pleases your eyes :)",
+  "version": "0.0.1",
+  "publisher": "KapilYadav",
+  "keywords": [
+    "theme",
+    "vscode",
+    "light",
+    "dark",
+    "aesthetic",
+    "purple",
+    "light-purple",
+    "semi-light-purple",
+    "light-purple-theme",
+    "purple-theme",
+    "aesthetic-theme",
+    "aesthetic-themes",
+    "aesthetic-color-theme",
+    "aesthetic-color-themes"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/k4p1l/semi-light-purple-theme.git"
+  },
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Semi Light Purple Theme",
+        "uiTheme": "vs",
+        "path": "./themes/Semi Light Purple Theme-color-theme.json"
+      }
+    ]
+  }
+}
